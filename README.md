@@ -21,4 +21,24 @@ The goal is to present clear, practical, and real-world solutions through clean 
 - JavaScript
 - GitHub Pages
 
-## 📂 Project Structure
+
+## 🚀 Deployment
+This site is automatically deployed using **GitHub Pages** from the `main` branch.
+
+To deploy updates:
+1. Push changes to the `main` branch
+2. GitHub Pages will rebuild and publish automatically
+
+## 📈 Future Improvements
+- Responsive design enhancements
+- SEO optimization
+- Performance improvements
+- Additional project pages
+
+## 📬 Contact
+If you’d like to connect or collaborate, feel free to reach out via GitHub.
+
+---
+
+© 2026 Jake Anthony Buenafe
+
